@@ -18,9 +18,9 @@
 |2025.01.06|[\[Security\] Keychain - 적용기](https://thin-asiago-c43.notion.site/Keychain-acd6b416e3dd45058f19b865898ade75?pvs=4)|
 |2025.01.07|[\[Security\] 키체인 사용 할 때 알게 된 점](https://thin-asiago-c43.notion.site/Keychain-684f996966a24f64b1a5fc269d8cd9e1?pvs=4)|
 |2025.01.09|[\[Design Pattern\] Coordinator Pattern](https://thin-asiago-c43.notion.site/Coordinator-Pattern-1-d80a07a99f9f4ffeb887db856269a5cf?pvs=4)|
-|2025.01.18|[\[기본에 집중하기\] View Drawing Cycle - 1](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-1-2ab17a5f762649218fb3e92d8c388c90?pvs=4)|
-|2025.01.27|[\[기본에 집중하기\] View Drawing Cycle - 2](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-2-3ade5833055342f7b297e4f191f15983?pvs=4)|
-|2025.02.05|[\[기본에 충실하자\] 디바이스 내부 DB들](https://lava-experience-586.notion.site/DB-3377239e02484fc6bb0decf2f20ba242?pvs=4)|
+|2025.01.18|[\[Layout Cycle\] View Drawing Cycle - 1](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-1-2ab17a5f762649218fb3e92d8c388c90?pvs=4)|
+|2025.01.27|[\[Layout Cycle\] View Drawing Cycle - 2](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-2-3ade5833055342f7b297e4f191f15983?pvs=4)|
+|2025.02.05|[\[Database\] 디바이스 내부 DB들](https://lava-experience-586.notion.site/DB-3377239e02484fc6bb0decf2f20ba242?pvs=4)|
 |2025.02.15|[\[Clean Architecture\] 1장. 소개](https://lava-experience-586.notion.site/Clean-Architecture-1-695832a7dc3c49c0bc74fc0b8e79ea36?pvs=4)|
 |2025.02.19|[\[Architecture\] Clean + ExampleMVVM](https://lava-experience-586.notion.site/ExampleMVVM-c3114d10659c4a5ba8d9f260403dfcd9?pvs=4)|
 |2025.03.08|[\[CocoaPods\] CocoaPods 연습](https://lava-experience-586.notion.site/CocoaPods-d4ff684f942a42718de778b13115953a?pvs=4)|
